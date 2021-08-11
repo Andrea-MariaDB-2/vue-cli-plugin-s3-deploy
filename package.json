@@ -47,7 +47,7 @@
     "globby": "^8.0.1",
     "joi": "^14.0.2",
     "lodash": "^4.17.11",
-    "mime-types": "^2.1.18"
+    "mime-types": "^2.1.31"
   },
   "devDependencies": {
     "babel-jest": "^23.6.0",
