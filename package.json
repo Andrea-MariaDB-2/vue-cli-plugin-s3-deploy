@@ -39,7 +39,7 @@
     "@babel/core": "^7.1.2",
     "@babel/polyfill": "^7.0.0",
     "@babel/preset-env": "^7.1.0",
-    "@vue/cli-shared-utils": "^3.4.0",
+    "@vue/cli-shared-utils": "^3.12.1",
     "aws-sdk": "^2.225.1",
     "babel-core": "^7.0.0-bridge",
     "es6-promise-pool": "^2.5.0",
