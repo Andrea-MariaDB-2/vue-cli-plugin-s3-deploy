@@ -46,7 +46,7 @@
     "fs-extra": "^7.0.1",
     "globby": "^8.0.1",
     "joi": "^14.0.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "mime-types": "^2.1.18"
   },
   "devDependencies": {
